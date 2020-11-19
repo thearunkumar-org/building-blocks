@@ -1,0 +1,31 @@
+{
+  "defaults": [
+    {
+      "type": "title",
+      "display": "Add a heading",
+      "styles": {
+        "font-size": "30px",
+        "width": "200px",
+        "height": "35px"
+      }
+    },
+    {
+      "type": "sub-title",
+      "display": "Add a subheading",
+      "styles": {
+        "font-size": "20px",
+        "width": "200px",
+        "height": "35px"
+      }
+    },
+    {
+      "type": "paragraph",
+      "display": "Add a paragraph",
+      "styles": {
+        "font-size": "10px",
+        "width": "200px",
+        "height": "35px"
+      }
+    }
+  ]
+}

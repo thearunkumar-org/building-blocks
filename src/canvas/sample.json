@@ -1,0 +1,109 @@
+{
+  "canvas": {
+    "display": "",
+    "identifier": "canvas",
+    "type": "canvas",
+    "styles": {
+      "border": "1px solid GREY",
+      "position": "absolute",
+      "background": "#ffffff",
+      "width": "595px",
+      "height": "842px"
+    }
+  },
+  "title_1": {
+    "type": "title",
+    "identifier": "title_1",
+    "display": "Arunkumar Srisailapathi",
+    "styles": {
+      "font-size": "3rem",
+      "left": "58px",
+      "top": "0px",
+      "position": "absolute"
+    }
+  },
+  "sub-title_1": {
+    "type": "sub-title",
+    "identifier": "sub-title_1",
+    "display": "Experience",
+    "styles": {
+      "font-size": "2rem",
+      "left": "25px",
+      "top": "79px",
+      "position": "absolute",
+      "background": "#999999",
+      "width": "34rem"
+    }
+  },
+  "paragraph_1": {
+    "type": "paragraph",
+    "identifier": "paragraph_1",
+    "display": "Amazon - PrimeVideo",
+    "styles": {
+      "font-size": "1rem",
+      "left": "25px",
+      "top": "138px",
+      "position": "absolute",
+      "color": "#194d33"
+    }
+  },
+  "paragraph_2": {
+    "type": "paragraph",
+    "identifier": "paragraph_2",
+    "display": "Thanks for visiting my resume",
+    "styles": {
+      "font-size": "1rem",
+      "left": "205px",
+      "top": "782px",
+      "position": "absolute"
+    }
+  },
+  "sub-title_2": {
+    "type": "sub-title",
+    "identifier": "sub-title_2",
+    "display": "Skills",
+    "styles": {
+      "font-size": "2rem",
+      "left": "22px",
+      "top": "210px",
+      "position": "absolute",
+      "width": "34rem",
+      "background": "#999999"
+    }
+  },
+  "paragraph_3": {
+    "type": "paragraph",
+    "identifier": "paragraph_3",
+    "display": "React\nRedux\nWebpack\nSCSS\nSASS\nStyled components\nHTML5\nCSS3\nJavascript\nJQuery\nAlgorithms",
+    "styles": {
+      "font-size": "1rem",
+      "left": "21px",
+      "top": "266px",
+      "position": "absolute"
+    }
+  },
+  "sub-title_3": {
+    "type": "sub-title",
+    "identifier": "sub-title_3",
+    "display": "Projects",
+    "styles": {
+      "font-size": "2rem",
+      "left": "22px",
+      "top": "497px",
+      "position": "absolute",
+      "background": "#999999",
+      "width": "34rem"
+    }
+  },
+  "paragraph_4": {
+    "type": "paragraph",
+    "identifier": "paragraph_4",
+    "display": "Have extensively worked on various projects.\n\nNotable ones are performance improvements.\n\n\n\nAnother ones are personal projects.",
+    "styles": {
+      "font-size": "1rem",
+      "left": "25px",
+      "top": "562px",
+      "position": "absolute"
+    }
+  }
+}
